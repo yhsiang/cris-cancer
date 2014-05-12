@@ -1,0 +1,34 @@
+{
+  "name": "cris-cancer",
+  "version": "0.1.0",
+  "description": "The crawler for the cancer report from https://cris.hpa.gov.tw/",
+  "main": "main.ls",
+  "dependencies": {
+    "cheerio": "^0.16.0",
+    "async": "^0.8.0",
+    "request": "^2.34.0",
+    "underscore": "^1.6.0",
+    "jsdom": "^0.10.5",
+    "ms-viewstate": "^0.1.0",
+    "prelude-ls": "^1.1.1",
+    "imagemagick": "^0.1.3",
+    "node-dom": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhsiang/cris-cancer"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "YuanHsiang Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhsiang/cris-cancer/issues"
+  },
+  "homepage": "https://github.com/yhsiang/cris-cancer"
+}
