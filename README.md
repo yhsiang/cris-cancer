@@ -3,6 +3,9 @@ cris-cancer
 
 The crawler for the cancer report from department of health
 
+[origin repo](https://github.com/hcchien/doh-cancer)
+[Visualization](http://g0v.github.io/cancer/viz)
+
 Usage
 ==========
 
